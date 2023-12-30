@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "823284561908",
+    "project_id": "msx-app-8db01",
+    "storage_bucket": "msx-app-8db01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823284561908:android:ebd4bc72d050c491d72ba1",
+        "android_client_info": {
+          "package_name": "com.msx.msxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823284561908-72q6tpq8em7e6r801lvnummhnodgj59m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zFWtEjgLI1e_VDyjqML194wOFsPRPR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823284561908-72q6tpq8em7e6r801lvnummhnodgj59m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823284561908-grrmjh0n7jdlug7uvsrfisgai080jn99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.msx.msxapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823284561908:android:81d4e1e62ae79785d72ba1",
+        "android_client_info": {
+          "package_name": "com.msx.msxapp.msx_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823284561908-72q6tpq8em7e6r801lvnummhnodgj59m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zFWtEjgLI1e_VDyjqML194wOFsPRPR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823284561908-72q6tpq8em7e6r801lvnummhnodgj59m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823284561908-grrmjh0n7jdlug7uvsrfisgai080jn99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.msx.msxapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

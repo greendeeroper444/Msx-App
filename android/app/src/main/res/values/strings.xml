@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MSX</string>
+    <string name="facebook_app_id">1606771730073816</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">cfb29330a42b1c901a0b45c761b523b2</string>
+</resources>
